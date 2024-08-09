@@ -115,5 +115,5 @@ Payment/other queries: [@predictum_support](https://t.me/predictum_support_bot) 
 
 ## 🖼 Customers 👇
 
-![preview](https://i.ibb.co/zZbhjf6/pnl0.jpg)
-![preview](https://i.ibb.co/x6rNTDm/pnl1.jpg)
+![preview](https://i.postimg.cc/hGjtwCVf/customer1.png)
+![preview](https://i.postimg.cc/9M9C5s0F/customer2.png)
